@@ -3,7 +3,7 @@ from flask import flask
 app=flask(__name__)
 @app.rout('/')
 def index():
-    return"hello world !
+    return"st.mary's engeering college" !
 
 
 if __name__=='__main__':
